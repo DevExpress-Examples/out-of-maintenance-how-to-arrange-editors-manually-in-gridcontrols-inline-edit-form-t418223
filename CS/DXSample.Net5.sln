@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 16
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXSample", "DXSample\DXSample.csproj", "{E05E6256-FD7E-4D54-8E32-290FAADE8BB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXSample", "DXSample\DXSample.Net5.csproj", "{E05E6256-FD7E-4D54-8E32-290FAADE8BB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
